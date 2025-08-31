@@ -36,6 +36,27 @@ Requirement Analysis helps bridge the gap between stakeholders and developers. B
 With well-defined requirements, teams can estimate timelines, allocate resources effectively, and reduce the risk of scope creep. This leads to smoother project execution and fewer surprises during development.
 
 ### 3.  Improved Quality and Reduced Rework  
-When requirements are clear and agreed upon, developers can build with confidence. This minimizes misunderstandings, reduces bugs, and avoids costly rework—ultimately improving the quality and reliability of the software.
+When requirements are clear and agreed upon, developers can build with confidence. This minimizes misunderstandings, reduces bugs, and avoids costly rework ultimately improving the quality and reliability of the software.
+
+##  Key Activities in Requirement Analysis
+
+Requirement Analysis involves several interconnected activities that help teams understand, define, and validate what a software system needs to achieve. Below are the five core activities:
+
+- **Requirement Gathering**  
+  Collecting initial information from stakeholders, users, and existing systems to understand the business context and user needs. This sets the foundation for all further analysis.
+
+- **Requirement Elicitation**  
+  Engaging with stakeholders through interviews, surveys, workshops, and observation to uncover explicit and implicit requirements. This phase focuses on asking the right questions and listening actively.
+
+- **Requirement Documentation**  
+  Organizing and recording the gathered requirements in a clear, structured format—such as user stories, use cases, or requirement specifications. Documentation ensures alignment and traceability throughout the project.
+
+- **Requirement Analysis and Modeling**  
+  Breaking down and examining requirements to identify dependencies, conflicts, and priorities. Modeling techniques like flowcharts, wireframes, or UML diagrams help visualize system behavior and structure.
+
+- **Requirement Validation**  
+  Reviewing and confirming requirements with stakeholders to ensure accuracy, completeness, and feasibility. This step helps prevent misunderstandings and ensures the solution will meet real-world needs.
+
+
 
 
