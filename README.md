@@ -102,7 +102,7 @@ Below is a use case diagram for the hotel booking system, illustrating key actor
 - **Prevents Scope Creep:** Keeps development focused and aligned with user needs  
 - **Enhances Quality:** Encourages thoughtful design and thorough validation
 
-### 🧾 Example: Checkout Feature – Booking Management System
+###  Example: Checkout Feature – Booking Management System
 
 **Feature:** Secure Checkout Process
 
