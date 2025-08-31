@@ -89,7 +89,7 @@ Use Case Diagrams are a visual tool used in Requirement Analysis to represent th
 
 Below is a use case diagram for the hotel booking system, illustrating key actors and their interactions with the system:
 
-alx-booking-uc.png : https://drive.google.com/file/d/1RTxOyCAg2idP3K0Y0QI3IJ2pQIEdi7oW/view?usp=sharing 
+![Use Case Diagram](alx-booking-uc.png)
 
 ##  Acceptance Criteria
 
