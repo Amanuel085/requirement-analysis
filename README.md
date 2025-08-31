@@ -57,6 +57,29 @@ Requirement Analysis involves several interconnected activities that help teams 
 - **Requirement Validation**  
   Reviewing and confirming requirements with stakeholders to ensure accuracy, completeness, and feasibility. This step helps prevent misunderstandings and ensures the solution will meet real-world needs.
 
+##  Types of Requirements
+
+###  Functional Requirements  
+Functional requirements define the specific behaviors, features, and operations a system must perform. These are directly tied to user interactions and business logic.
+
+**Examples for the Booking Management Project:**
+- **Search Functionality:** Users can search for hotels based on location, price, and availability using ElasticSearch.  
+- **Booking Service:** Users can book hotels through an API that interacts with Redis and the booking database.  
+- **Payment Integration:** The system must securely process payments via a third-party payment service.  
+- **View Bookings:** Customers and managers can view current and past bookings using data retrieved from Redis and Cassandra.  
+- **Hotel Management Portal:** Hotel managers can update property details, availability, and pricing through a dedicated interface.
+
+###  Non-functional Requirements  
+Non-functional requirements describe how the system performs its functions. These include performance, scalability, security, and usability aspects.
+
+**Examples for the Booking Management Project:**
+- **Scalability:** The system must handle high user traffic using microservices and load balancers.  
+- **Performance:** Redis caching is used to reduce database load and improve API response time.  
+- **Availability:** The system should ensure high uptime through distributed architecture and failover mechanisms.  
+- **Security:** Sensitive data like payment details must be encrypted and securely transmitted.  
+- **Maintainability:** The architecture should support modular updates without affecting other services.
+
+
 
 
 
