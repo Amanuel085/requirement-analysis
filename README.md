@@ -79,6 +79,18 @@ Non-functional requirements describe how the system performs its functions. Thes
 - **Security:** Sensitive data like payment details must be encrypted and securely transmitted.  
 - **Maintainability:** The architecture should support modular updates without affecting other services.
 
+##  Use Case Diagrams
+Use Case Diagrams are a visual tool used in Requirement Analysis to represent the interactions between users (actors) and the system. They help identify system functionalities from the user's perspective and clarify how different roles engage with various features.
+###  Benefits of Use Case Diagrams:
+- Provide a high-level overview of system functionality
+- Help stakeholders understand user interactions
+- Aid in identifying core requirements and edge cases
+- Support communication between technical and non-technical team members
+
+Below is a use case diagram for the hotel booking system, illustrating key actors and their interactions with the system:
+
+![Use Case Diagram for Booking System] (https://drive.google.com/file/d/1RTxOyCAg2idP3K0Y0QI3IJ2pQIEdi7oW/view?usp=sharing)
+
 
 
 
