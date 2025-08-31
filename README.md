@@ -91,6 +91,32 @@ Below is a use case diagram for the hotel booking system, illustrating key actor
 
 ![Use Case Diagram for Booking System] (https://drive.google.com/file/d/1RTxOyCAg2idP3K0Y0QI3IJ2pQIEdi7oW/view?usp=sharing)
 
+##  Acceptance Criteria
+
+**Acceptance Criteria** are predefined conditions that a software feature must meet to be considered complete and acceptable by stakeholders. They serve as a bridge between requirements and implementation, ensuring clarity, alignment, and testability throughout the development process.
+
+###  Importance in Requirement Analysis
+- **Clarifies Expectations:** Helps developers and stakeholders agree on what “done” looks like  
+- **Improves Communication:** Reduces ambiguity by translating requirements into measurable outcomes  
+- **Supports Testing:** Provides a basis for writing test cases and validating functionality  
+- **Prevents Scope Creep:** Keeps development focused and aligned with user needs  
+- **Enhances Quality:** Encourages thoughtful design and thorough validation
+
+### 🧾 Example: Checkout Feature – Booking Management System
+
+**Feature:** Secure Checkout Process
+
+**Acceptance Criteria:**
+-  User must be able to review booking details before payment  
+-  Payment form must support credit/debit cards and third-party gateways (e.g., Stripe)  
+-  Booking confirmation must be displayed after successful payment  
+-  System must send a confirmation email with booking summary  
+-  If payment fails, user must receive a clear error message and retry option  
+-  Checkout page must be responsive and accessible (WCAG compliant)  
+-  Booking data must be stored securely and retrievable via user dashboard
+
+
+
 
 
 
